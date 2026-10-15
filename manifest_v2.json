@@ -3,7 +3,7 @@
     "id": "979894295773",
     "restype": "watchface",
     "name": "EIFFEL STREAK",
-    "description": "EIFFEL STREAK_铁塔夜景_手抖拖影\n手持夜拍时手一抖, 铁塔的橙色灯光拖成一道道光, 时间用稀疏的白色光点写在左上; 抬腕亮屏铁塔轻轻转一下, 塔顶灯塔约每 4 秒朝你闪一次, 拖影里的星星跟着闪; 铁塔亮度跟着电量变, 电量低于 30% 时灯暗下来, 不再转; 息屏只留点阵时间\n目前支持小米手环 10 / 11\n由于 AstroBox 平台限制, 无法上传动态照片, 想看亮屏和 AOD 动画, 以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好\n后续会通过与astrobox内嵌的爱发电平台更新付费表盘的资源",
+    "description": "EIFFEL STREAK_铁塔夜景_手抖拖影\n\nv0.0.1 更新了AOD的动画, 现在在AOD情况下也可以看到没有开灯的铁塔\n\n铁塔的橙色灯光拖成一道道光, 时间用稀疏的白色光点实现.\n\n塔顶灯塔约每 4 秒朝你闪一次, 拖影里的星星跟着闪; 铁塔亮度跟着电量变, 电量低于 30% 时灯暗下来, 不再转; 息屏只留点阵时间\n目前支持小米手环 10 / 11/nfc\n由于 AstroBox 平台限制, 无法上传动态照片, 想看亮屏和 AOD 动画, 以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
     "preview": [
       "media/03-预览-亮屏与息屏.png",
       "media/04-预览-电量灯光.png"
@@ -26,24 +26,24 @@
   ],
   "downloads": {
     "xmb10": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Eiffel Streak.face",
-      "versionCode": 0
+      "versionCode": 1
     },
     "xmb10nfc": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Eiffel Streak.face",
-      "versionCode": 0
+      "versionCode": 1
     },
     "xmb11": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Eiffel Streak.face",
-      "versionCode": 0
+      "versionCode": 1
     },
     "xmb11nfc": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Eiffel Streak.face",
-      "versionCode": 0
+      "versionCode": 1
     }
   },
   "ext": {
